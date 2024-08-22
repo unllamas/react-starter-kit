@@ -18,10 +18,8 @@ cd ...
 
 ### Installation
 
-Using [pnpm](https://pnpm.io/es/)
-
 ```bash
-pnpm install @auth0/auth0-react
+pnpm install
 ```
 
 ##### `pnpm dev`
@@ -44,7 +42,7 @@ Most of the code lives in the `src` folder and looks something like this:
 src
 ├── app
 │   └── routes
-│   └── app.(tsx/js)
+│   └── index.(tsx/js)
 │   └── provider.(tsx/js)
 │   └── route.(tsx/js)
 ├── components
@@ -52,7 +50,7 @@ src
 │   └── seo
 │   └── errors
 │   └── theme
-|── features
+├── features
 │   └── navbar
 │   └── hero
 └── lib
