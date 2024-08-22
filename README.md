@@ -2,12 +2,18 @@
 
 [![MIT License](https://img.shields.io/github/license/alan2207/bulletproof-react)](https://github.com/unllamas/react-starter-kit/blob/main/LICENSE)
 
-## Get Started
+## 🤓 Tech Stack
+
+- [React](https://react.dev/) for web app
+- [Tailwind](https://tailwindcss.com/) for style
+- [Shadcn](https://ui.shadcn.com/) for UI components
+
+## 🚀 Get Started
 
 Prerequisites:
 
-- Node v18+
-- PNPM v8+
+- [Node](https://nodejs.org/)
+- [PNPM](https://pnpm.io/)
 
 To set up the app execute the following commands.
 
