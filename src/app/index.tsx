@@ -1,4 +1,3 @@
-// import { NostrHooksContextProvider } from 'nostr-hooks';
 import { ThemeProvider } from '@/components/theme';
 
 import { AppProvider } from './provider';

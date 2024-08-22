@@ -1,5 +1,5 @@
-import { QueryClient, useQueryClient } from '@tanstack/react-query';
 import { useMemo } from 'react';
+import { QueryClient, useQueryClient } from '@tanstack/react-query';
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 
 export const createAppRouter = (_queryClient: QueryClient) =>

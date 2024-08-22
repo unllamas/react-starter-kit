@@ -23,8 +23,6 @@ export default defineConfig({
         experimentalMinChunkSize: 3500,
         manualChunks: {
           'react-stuff': ['react', 'react-dom', 'react-router-dom'],
-          'nostr-dev-kit': ['@nostr-dev-kit/ndk', '@nostr-dev-kit/ndk-cache-dexie'],
-          zustand: ['zustand'],
         },
       },
     },
