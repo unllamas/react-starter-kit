@@ -63,5 +63,4 @@ src
 │   └── hero
 └── lib
     └── utils.(tsx)
-    └── store.(tsx)
 ```
