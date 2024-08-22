@@ -6,7 +6,7 @@ export const Hero = () => {
   return (
     <div className="flex flex-col justify-center items-center gap-6 h-full">
       <h1 className="text-3xl font-extrabold">
-        <p>React-Nostr-Starter-Kit</p>
+        <p>React-Starter-Kit</p>
       </h1>
 
       <Button asChild>
