@@ -41,12 +41,12 @@ Most of the code lives in the `src` folder and looks something like this:
 ```sh
 src
 ├── app
-│   └── routes
-│       └── home.(tsx)
-│       └── not-found.(tsx)
 │   └── index.(tsx)
 │   └── provider.(tsx)
 │   └── route.(tsx)
+│   └── routes
+│       └── home.(tsx)
+│       └── not-found.(tsx)
 ├── components
 │   └── ui
 │   └── seo
