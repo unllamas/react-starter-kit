@@ -7,8 +7,8 @@ export const createAppRouter = (_queryClient: QueryClient) =>
     {
       path: '/',
       lazy: async () => {
-        const { LandingRoute } = await import('./routes/landing');
-        return { Component: LandingRoute };
+        const { HomeRoute } = await import('./routes/home');
+        return { Component: HomeRoute };
       },
     },
     {

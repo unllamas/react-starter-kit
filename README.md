@@ -42,9 +42,11 @@ Most of the code lives in the `src` folder and looks something like this:
 src
 ├── app
 │   └── routes
-│   └── index.(tsx/js)
-│   └── provider.(tsx/js)
-│   └── route.(tsx/js)
+│       └── home.(tsx)
+│       └── not-found.(tsx)
+│   └── index.(tsx)
+│   └── provider.(tsx)
+│   └── route.(tsx)
 ├── components
 │   └── ui
 │   └── seo
@@ -54,6 +56,6 @@ src
 │   └── navbar
 │   └── hero
 └── lib
-    └── utils.(tsx/js)
-    └── store.(tsx/js)
+    └── utils.(tsx)
+    └── store.(tsx)
 ```

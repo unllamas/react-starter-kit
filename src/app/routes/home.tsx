@@ -1,6 +1,6 @@
 import { Navbar, Hero } from '@/features';
 
-export const LandingRoute = () => {
+export const HomeRoute = () => {
   return (
     <>
       <Navbar />
