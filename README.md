@@ -50,7 +50,7 @@ src
 │   └── index.(tsx)
 │   └── provider.(tsx)
 │   └── route.(tsx)
-│   └── routes
+│   └── routes (pages folder)
 │       └── home.(tsx)
 │       └── not-found.(tsx)
 ├── components
